@@ -1,0 +1,2 @@
+- I want all your answers in Spanish.
+- Structure your response well and use good development practices.
